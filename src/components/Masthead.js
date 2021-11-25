@@ -7,11 +7,11 @@ function Masthead() {
         {/* <!-- Masthead Avatar Image--> */}
         <img
           class="masthead-avatar mb-5"
-          src="assets/img/avataaars.svg"
+          src="assets/img/emoji.png"
           alt="..."
         />
         {/* <!-- Masthead Heading--> */}
-        <h1 class="masthead-heading text-uppercase mb-0">Start Bootstrap</h1>
+        <h1 class="masthead-heading text-uppercase mb-0">hello, i'm eugene</h1>
         {/* <!-- Icon Divider--> */}
         <div class="divider-custom divider-light">
           <div class="divider-custom-line"></div>
@@ -22,7 +22,7 @@ function Masthead() {
         </div>
         {/* <!-- Masthead Subheading--> */}
         <p class="masthead-subheading font-weight-light mb-0">
-          Graphic Artist - Web Designer - Illustrator
+          Software Engineer - Full Stack Developer
         </p>
       </div>
     </header>

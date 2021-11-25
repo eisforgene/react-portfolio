@@ -8,7 +8,7 @@ function Navigation() {
     >
       <div class="container">
         <a class="navbar-brand" href="#page-top">
-          Start Bootstrap
+          Eugene Lee
         </a>
         <button
           class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded"

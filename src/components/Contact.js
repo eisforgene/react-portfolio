@@ -16,14 +16,7 @@ function Contact() {
                 {/* <!-- Contact Section Form--> */}
                 <div className="row justify-content-center">
                     <div className="col-lg-8 col-xl-7">
-                        {/* <!-- * * * * * * * * * * * * * * *-->
-                        <!-- * * SB Forms Contact Form * *-->
-                        <!-- * * * * * * * * * * * * * * *-->
-                        <!-- This form is pre-integrated with SB Forms.-->
-                        <!-- To make this form functional, sign up at-->
-                        <!-- https://startbootstrap.com/solution/contact-forms-->
-                        <!-- to get an API token!--> */}
-                        <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                        <form id="contactForm">
                             {/* <!-- Name input--> */}
                             <div className="form-floating mb-3">
                                 <input className="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
@@ -51,19 +44,11 @@ function Contact() {
                                 <label htmlFor="message">Message</label>
                                 <div className="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
-                            {/* <!-- Submit success message--> */}
-                            {/* <!----> */}
-                            {/* <!-- This is what your users will see when the form--> */}
-                            {/* <!-- has successfully submitted--> */}
                             <div className="d-none" id="submitSuccessMessage">
                                 <div className="text-center mb-3">
                                     <div className="fw-bolder">submission successful!</div>
                                 </div>
                             </div>
-                            {/* <!-- Submit error message--> */}
-                            {/* <!----> */}
-                            {/* <!-- This is what your users will see when there is--> */}
-                            {/* <!-- an error submitting the form--> */}
                             <div className="d-none" id="submitErrorMessage"><div className="text-center text-danger mb-3">Error sending message!</div></div>
                             {/* <!-- Submit Button--> */}
                             <button className="btn btn-primary btn-xl" id="submitButton" type="submit">Send</button>

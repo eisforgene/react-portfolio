@@ -13,27 +13,27 @@ function Project() {
                 <div class="row justify-content-center">
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="far fa-hand-point-up"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/toilet-sos.png" alt="..." />
+                            <a class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100" href="http://project-toilet.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                                <div class="portfolio-item-caption-content text-center text-white btn"><i class="far fa-hand-point-up"></i></div>
+                            </a>
+                            <img class="img-fluid" src="assets/img/portfolio/toilet-sos.png" alt="..."/>
                             <h5 class="h5 text-black text-center">Toilet SOS</h5>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                            <a class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100" href="https://sleepy-sierra-14860.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="far fa-hand-point-up"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cocktails-cinema.png" alt="..." />
-                            <h5 class="h5 text-black text-center">Cocktails & Cinema</h5>
+                            </a>
+                            <img class="img-fluid" src="assets/img/portfolio/note-taker.png" alt="..." />
+                            <h5 class="h5 text-black text-center">Note Taker</h5>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                            <a class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100" href="https://venue-covid-tracker.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="far fa-hand-point-up"></i></div>
-                            </div>
+                            </a>
                             <img class="img-fluid" src="assets/img/portfolio/covid-app.png" alt="..." />
                             <h5 class="h5 text-black text-center">Covid Venue Tracker</h5>
                         </div>
@@ -41,27 +41,27 @@ function Project() {
                     
                     <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
                         <div class="portfolio-item mx-auto">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                            <a class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100" href="https://github.com/eisforgene/social-network-api" target="_blank" rel="noopener noreferrer">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="far fa-hand-point-up"></i></div>
-                            </div>
+                            </a>
                             <img class="img-fluid" src="assets/img/portfolio/social-network.png" alt="..." />
                             <h5 class="h5 text-black text-center">Social Network API</h5>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
                         <div class="portfolio-item mx-auto">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                            <a class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100" href="https://eisforgene.github.io/weather-dashboard/" target="_blank" rel="noopener noreferrer">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="far fa-hand-point-up"></i></div>
-                            </div>
+                            </a>
                             <img class="img-fluid" src="assets/img/portfolio/weather-dashboard.png" alt="..." />
                             <h5 class="h5 text-black text-center">Weather Dashboard</h5>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="portfolio-item mx-auto">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                            <a class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100" href="https://boiling-stream-08872.herokuapp.com/" target="_blank" rel="noopener noreferrer">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="far fa-hand-point-up"></i></div>
-                            </div>
+                            </a>
                             <img class="img-fluid" src="assets/img/portfolio/budget-tracker.png" alt="..." />
                             <h5 class="h5 text-black text-center">Budget Tracker</h5>
                         </div>

@@ -7,7 +7,7 @@ import Copyright from './components/Copyright';
 import Footer from './components/Footer';
 import Masthead from './components/Masthead';
 import Navigation from './components/Navigation';
-import Portfolio from './components/Portfolio';
+import Project from './components/Project';
 
 
 
@@ -16,7 +16,7 @@ function App() {
     <>
     <Router>
       <Masthead />
-      <Portfolio />
+      <Project />
       <About />
       <Contact />
       <Copyright />

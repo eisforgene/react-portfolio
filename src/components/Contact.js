@@ -19,20 +19,20 @@ function Contact() {
                         <form id="contactForm">
                             {/* <!-- Name input--> */}
                             <div className="form-floating mb-3">
-                                <input className="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
+                                <input className="form-control" id="name" type="text" placeholder="Enter your name..."/>
                                 <label htmlFor="name">Full name</label>
                                 <div className="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
                             {/* <!-- Email address input--> */}
                             <div className="form-floating mb-3">
-                                <input className="form-control" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
+                                <input className="form-control" id="email" type="email" placeholder="name@example.com"/>
                                 <label htmlFor="email">Email address</label>
                                 <div className="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div className="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
                             {/* <!-- Phone number input--> */}
                             <div className="form-floating mb-3">
-                                <input className="form-control" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
+                                <input className="form-control" id="phone" type="tel" placeholder="(123) 456-7890"/>
                                 <label htmlFor="phone">Phone number</label>
                                 <div className="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                             </div>
